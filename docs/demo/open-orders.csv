@@ -1,0 +1,4 @@
+﻿order_id,supplier,product,promised_date,remaining,open_value_kurus,overdue_days,status
+1,Ornek Ofis Tedarik,Klavye,2026-10-02,4,200000,3,Gecikmiş
+3,Demo Teknoloji,Monitor,2026-10-05,3,1200000,0,Bugün bekleniyor
+4,Ornek Ofis Tedarik,Fare,2026-10-08,20,400000,0,Planlı
